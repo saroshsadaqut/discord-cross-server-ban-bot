@@ -2,11 +2,8 @@
 
 [![Java](https://img.shields.io/badge/Java-20.0.2-%23ED8B00.svg?logo=openjdk)](https://openjdk.org/)
 [![JDA](https://img.shields.io/badge/JDA-5.3.0-%23FF0000.svg)](https://github.com/DV8FromTheWorld/JDA)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A high-performance moderation bot that bans users across multiple Discord servers simultaneously. Built with Java and JDA library.
-
-![Demo GIF](demo.gif) *(Replace with actual demo screenshot)*
 
 ## ✨ Features
 - **Cross-server banning** with `!!ban <user_id>`
