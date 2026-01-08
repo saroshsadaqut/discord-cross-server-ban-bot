@@ -5,6 +5,14 @@
 
 A high-performance moderation bot that bans users across multiple Discord servers simultaneously. Built with Java and JDA library.
 
+## 📸 Bot in Action
+
+The screenshot below shows the bot successfully processing the `!!ban` command.
+It validates the provided user ID and confirms the ban across multiple Discord servers
+where the bot has sufficient permissions.
+
+![Discord Mass Ban Bot in Action](images/discord-bot.png)
+
 ## ✨ Features
 - **Cross-server banning** with `!!ban <user_id>`
 - **Role hierarchy verification** (only admins/moderators can use)
@@ -52,3 +60,4 @@ A high-performance moderation bot that bans users across multiple Discord server
 Never commit your bot token! Always use:
 - Environment variables (recommended)
 - External configuration files (excluded via .gitignore)
+
